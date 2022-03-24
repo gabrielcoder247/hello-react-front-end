@@ -1,10 +1,38 @@
-# Getting Started with Create React App
+# Hello greetings
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello greeting is the front-end part of the hello greeting app, where on clicking a button the you show be greeted with different greeting but not depending on the time rather randomly.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Built With
+
+- React
+- React-router-dom
+
+
+[link to back-end](https://github.com/gabrielcoder247/Hello-rails-back-end)
+
+## Getting Started
+
+## Creating the hello-rails-react
+
+`$   npx create-react-app@latest hello-react-front-end`
+`$   cd  hello-react-front-end # Move into the application directory`
+
+## Clone the respository
+`$ https://github.com/247/hello-react-front-end.git`
+`$ cd hello-react-front-end`
+
+
+`$ https://github.com/gabrielcoder247/hello-rails-react.git`
+
+
+## Install linters
+`$  npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x`
+
+## Run linter
+
+`
+$  npx stylelint "**/*.{css,scss}"`
 
 ### `npm start`
 
@@ -69,3 +97,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # hello-react-front-end
+
+
+
+## Author
+
+👤 **GABRIEL NWACHUKWU**
+
+- GitHub: [@codePriest](https://github.com/gabrielcoder247)
+- LinkedIn: [@codepriest](https://www.linkedin.com/in/gabriel-nwachukwu-209613173/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+- Feel free to check the [issues page](https://github.com/gabrielcoder247/hello-react-front-end/issues).
+
+## Show your support
+
+- Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse for giving us this chance
+
+## Available Scripts
+
+In the project directory, you can run:
